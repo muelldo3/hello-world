@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+I'm Dom from Switzerland and I'm here to explore the GitHub!
